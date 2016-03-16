@@ -1,4 +1,4 @@
-class Scraping
+class Scraping 
   def self.movie_urls
     agent = Mechanize.new
     links = []
